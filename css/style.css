@@ -1,0 +1,20 @@
+/* height and width of one animation frame */
+#sprite {
+  display: inline-block;
+}
+
+#sprite .frame {
+	width: 480px;
+	height: 200px;
+	background: url('../images/monkey_sprite_horiz.png');
+}
+
+/* .example .circview {
+  position: relative;
+  left: 50%;
+  top: 50px;
+  margin-left: -480px;
+  width: 480px;
+  height: 200px;
+  background-image: url('../images/monkey_sprite.png');
+} */
